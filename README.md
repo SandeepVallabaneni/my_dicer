@@ -1,6 +1,6 @@
-# first_app
+# Dicer app
 
-A new Flutter project.
+My first Flutter project.
 
 ## Getting Started
 
